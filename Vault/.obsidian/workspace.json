@@ -1,22 +1,275 @@
 {
-  "main": {},
+  "main": {
+    "id": "5d29977b15d88e93",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d359093861122b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b25fd3040e1fd232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/Duckbear/DuckRoad-README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DuckRoad-README"
+            }
+          },
+          {
+            "id": "275839da1dc57ae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Permanent/Links_2_Me.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Links_2_Me"
+            }
+          },
+          {
+            "id": "477bb182c9ec546e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Stuff I found.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stuff I found"
+            }
+          },
+          {
+            "id": "67c808fc8dd4d890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Stuff I found.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stuff I found"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb7f29e150e8c956",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fc24157c0fcbee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38b6abaccf3c8c75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3bef2e45a85f12ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f522db2efbbd08bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "02cadeeb33d1f11c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0b8ffc220a3b5003",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e060c61a5c8a224",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8890d90f4f83b21f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Projects/Duckbear/DuckRoad-README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DuckRoad-README"
+            }
+          },
+          {
+            "id": "0a111d42ef6ca83a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04 - Permanent/Links_2_Me.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Links_2_Me"
+            }
+          },
+          {
+            "id": "a965c5bd615be14d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "05babe3c2b8bb15b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "871e0ebc5652563f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Projects/Duckbear/DuckRoad-README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DuckRoad-README"
+            }
+          },
+          {
+            "id": "0e6df8ae0c0bdac8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-importer:Open Importer": true,
-      "templater-obsidian:Templater": true,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "",
-  "lastOpenFiles": []
+  "active": "b25fd3040e1fd232",
+  "lastOpenFiles": [
+    "01 - Projects/Duckbear/Untitled",
+    "03 - Resources/Stuff I found.md",
+    "01 - Projects/Duckbear/DuckRoad-README.md",
+    "06 - Daily/20241022.md",
+    "01 - Projects/Duckbear",
+    "06 - Daily/20241021.md",
+    "05 - Fleeting/Untitled.md",
+    "02 - Areas/Placeholder.md",
+    "05 - Fleeting/Placeholder 1.md",
+    "04 - Permanent/Links_2_Me.md",
+    "00 - Maps of Content/Placeholder.md",
+    "07 - Archives/Placeholder.md",
+    "01 - Projects/Website/Blog/TODO.md",
+    "01 - Projects/JOBS/Search.gsheet",
+    "desktop.ini",
+    "01 - Projects/JOBS",
+    "Untitled",
+    "01 - Projects/Website/Blog/ED-202410201515.excalidraw.md",
+    "01 - Projects/Website",
+    "06 - Daily/Placeholder.md",
+    "01 - Projects/Placeholder.md",
+    "01 - Projects/Website/Blog",
+    "06 - Daily/20241020.md",
+    "202410201508.md",
+    "202410201507.md"
+  ]
 }

@@ -10,6 +10,6 @@
   "showFrontmatter": true,
   "propertiesInDocument": "visible",
   "autoPairBrackets": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "spellcheck": true
 }
